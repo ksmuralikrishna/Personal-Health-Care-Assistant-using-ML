@@ -1,5 +1,5 @@
 # 🏥 Personal Health Care Assistant using ML
-
+  
 A machine learning-based web application that predicts diseases based on user-input symptoms and provides relevant diagnosis suggestions, doctor recommendations, remedies, and diet plans.
 
 ## 🚀 Features
