@@ -9,7 +9,7 @@ A machine learning-based web application that predicts diseases based on user-in
 - 👨‍⚕️ Doctor recommendations based on predicted disease
 - 🥗 Personalized diet plans
 - 🏥 Hospital listings with relevant doctors
-
+  
 ## 🛠️ Technologies Used
 
 - **Python**
